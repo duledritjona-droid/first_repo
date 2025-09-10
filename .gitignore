@@ -2,3 +2,7 @@
 __pycache__/
 *.pyc
 *.pub
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pub
