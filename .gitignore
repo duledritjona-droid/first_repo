@@ -1,3 +1,4 @@
+
 .ipynb_checkpoints/
 __pycache__/
 *.pyc
@@ -6,3 +7,7 @@ __pycache__/
 __pycache__/
 *.pyc
 *.pub
+
+bioinformatics_freecodecamp/*
+!bioinformatics_freecodecamp/CDD_ML_Part_1_Acetylcholinesterase_Bioactivity_Data_Concised.ipynb
+
