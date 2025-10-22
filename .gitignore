@@ -1,10 +1,13 @@
-.ipynb_checkpoints/
+\.ipynb_checkpoints/
 __pycache__/
 *.pyc
 *.pub
 
-bioinformatics_freecodecamp/*
-!bioinformatics_freecodecamp/CDD_ML_Part_1_Acetylcholinesterase_Bioactivity_Data_Concised.ipynb
+*
+
+!CDD_ML_Part_1_Acetylcholinesterase_Bioactivity_Data_Concised.ipynb
+
+!.gitignore
 
 anaconda_projects/
 alphafold_review/
