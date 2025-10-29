@@ -1,9 +1,6 @@
-  
-\.ipynb_checkpoints/
-__pycache__/
-*.pyc
-*.pub
-
+#ignore all files in this folder: bioinformatics_freecodecamp
 bioinformatics_freecodecamp/*
 
+#track only these notebooks
 !bioinformatics_freecodecamp/CDD_ML_Part_1_Acetylcholinesterase_Bioactivity_Data_Concised.ipynb 
+
