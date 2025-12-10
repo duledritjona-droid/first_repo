@@ -1,3 +1,9 @@
+
+.Ds_Store
+Mantamonis_bacterial_contamination_analysis.xlsx
+plot_preliminary_verdict.py
+
+
 #ignore all files in this folder: bioinformatics_freecodecamp
 bioinformatics_freecodecamp/*
 
