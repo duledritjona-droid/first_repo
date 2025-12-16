@@ -3,9 +3,9 @@
 Mantamonis_bacterial_contamination_analysis.xlsx
 plot_preliminary_verdict.py
 
-.main.zip.icloud
+*.icloud
 requirements.txt
-bioactivity-prediction-app-main
+bioactivity-prediction-app-main/
 
 #ignore all files in this folder: bioinformatics_freecodecamp
 bioinformatics_freecodecamp/*
