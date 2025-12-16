@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+lazypredict
+jupyter
+ipywidgets
+tqdm
+rdkit-pypi
